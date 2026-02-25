@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+
+<books>
+    <book>
+        <title>Harry Potter</title>
+        <author>J.K. Rowling</author>
+        <isbn>978-1234567890</isbn>
+        <publisher>Scholastic</publisher>
+        <edition>1</edition>
+        <price>150.05</price>
+    </book>
+
+    <book>
+        <title>Charlie and the Chocolate Factory</title>
+        <author>Roald Dahl</author>
+        <isbn>978-0987654321</isbn>
+        <publisher>Puffin</publisher>
+        <edition>2</edition>
+        <price>200.50</price>
+    </book>
+
+    <book>
+        <title>Girl in room no 105</title>
+        <author>Chetan Bhagat</author>
+        <isbn>978-1122334455</isbn>
+        <publisher>LMN Books</publisher>
+        <edition>1</edition>
+        <price>240.50</price>
+    </book>
+</books>

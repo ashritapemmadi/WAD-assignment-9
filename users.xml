@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="users.xsl"?>
+
+<users>
+
+    <user>
+        <id>1</id>
+        <name>Ashrita</name>
+        <role>Student</role>
+        <department>CSE</department>
+        <email>ashrita@gmail.com</email>
+    </user>
+
+    <user>
+        <id>2</id>
+        <name>Saatwika</name>
+        <role>Faculty</role>
+        <department>ECE</department>
+        <email>saatwika@gmail.com</email>
+    </user>
+
+    <user>
+        <id>3</id>
+        <name>Bhavesh</name>
+        <role>Student</role>
+        <department>MECH</department>
+        <email>bhavesh@gmail.com</email>
+    </user>
+
+    <user>
+        <id>4</id>
+        <name>Shanmukee</name>
+        <role>Faculty</role>
+        <department>EEE</department>
+        <email>shanmukee@gmail.com</email>
+    </user>
+
+    <user>
+        <id>5</id>
+        <name>Siddu</name>
+        <role>Student</role>
+        <department>CIVIL</department>
+        <email>siddu@gmail.com</email>
+    </user>
+
+    <user>
+        <id>6</id>
+        <name>Harshitha</name>
+        <role>Faculty</role>
+        <department>CSE</department>
+        <email>harshitha@gmail.com</email>
+    </user>
+
+    <user>
+        <id>7</id>
+        <name>Rishab</name>
+        <role>Student</role>
+        <department>ECE</department>
+        <email>rishab@gmail.com</email>
+    </user>
+
+    <user>
+        <id>8</id>
+        <name>Leena</name>
+        <role>Faculty</role>
+        <department>MECH</department>
+        <email>leena@gmail.com</email>
+    </user>
+
+    <user>
+        <id>9</id>
+        <name>Aruna</name>
+        <role>Student</role>
+        <department>EEE</department>
+        <email>aruna@gmail.com</email>
+    </user>
+
+    <user>
+        <id>10</id>
+        <name>Lalith</name>
+        <role>Faculty</role>
+        <department>CIVIL</department>
+        <email>laith@gmail.com</email>
+    </user>
+
+</users>
